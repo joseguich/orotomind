@@ -35,3 +35,12 @@
 /* @import "@ionic/angular/css/palettes/dark.always.css"; */
 /* @import "@ionic/angular/css/palettes/dark.class.css"; */
 @import "@ionic/angular/css/palettes/dark.system.css";
+body{
+  font-family: "Edu AU VIC WA NT Hand", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.port {
+  background-image: url('/assets/port.jpg');
+}
